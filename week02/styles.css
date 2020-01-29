@@ -3,4 +3,8 @@
 
 body {
   font-family: Arial, Helvetica, sans-serif;
+  color: black; 
+  line-height: 140%; 
+  margin: 30px; 
+  backgroung-color: #F7F3DE;
 } 
