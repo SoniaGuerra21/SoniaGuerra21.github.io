@@ -15,3 +15,7 @@ header h1 {
   padding: 40px;
   left-padding: 120pxl;
 }
+
+#container {
+margin-bottom: 30px;  
+}
