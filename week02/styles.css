@@ -21,5 +21,6 @@ margin-bottom: 30px;
 }
 
 nav {
-  float: left; 150px;
+  float: left;
+  width: 150px;
 }
