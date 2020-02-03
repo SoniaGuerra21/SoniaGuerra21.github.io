@@ -19,3 +19,7 @@ header h1 {
 #container {
 margin-bottom: 30px;  
 }
+
+nav {
+  float: left; 150px;
+}
