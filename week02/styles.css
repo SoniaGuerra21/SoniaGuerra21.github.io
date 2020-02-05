@@ -16,6 +16,9 @@ header h1 {
   padding: 40px;
   left-padding: 120pxl;
   background-image: url("header-image-1.gif");
+  background-position: top left;
+  background-repeat: no-repeat;
+
 }
 
 #container {
