@@ -15,6 +15,7 @@ header h1 {
   color: #7C1A00; 
   padding: 40px;
   left-padding: 120pxl;
+  background-image: url("header-image-1.gif");
 }
 
 #container {
@@ -30,13 +31,23 @@ nav ul {
   padding: 0px;
   margin: 0px;
   list-style-type:none;
-  color:#7C1A00
+  color:#7C1A00;
 } 
 
 nav li {
   margin:10px; 
   border:1px;
   border-style:solid;
-  border-color:#7C1A00 
-  background-color:#FFE597
+  border-color:#7C1A00;
+  background-color:#FFE597;
+}
+
+nav a {
+  color: white;
+  
+
+
+
+
+
 }
