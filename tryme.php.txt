@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html>
+<body>
 
 <?php 
  // Assign the value "Hello!" to the variable "greeting" 
